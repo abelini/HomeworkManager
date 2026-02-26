@@ -6,7 +6,10 @@
 /tmp/*
 /vendor/*
 /webroot/files/*
-/webroot/img/*
+/webroot/img/courses/*
+/webroot/img/docs/*
+/webroot/img/email/*
+/webroot/img/profile_photos/*
 
 
 # --- CakePHP Logs y Temporales ---
