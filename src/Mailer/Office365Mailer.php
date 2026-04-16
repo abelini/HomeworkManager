@@ -27,8 +27,8 @@ class Office365Mailer extends Mailer {
 	protected const CONFIG = [
 		'host' => 'smtp.office365.com',
 		'port' => 587,
-		'username' => 'willyibarra@ms.uas.edu.mx',
-		'password' => 'JUBILEo2023',
+		'username' => 'anyuser@ms.uas.edu.mx',
+		'password' => '*******',
 		'transport' => 'Smtp',
 		'client' => null,
 		'tls' => true,
